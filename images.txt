@@ -1,2 +1,1 @@
-#支持私库
 apache/doris:build-env-ldb-toolchain-latest
